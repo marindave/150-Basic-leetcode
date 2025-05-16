@@ -13,6 +13,7 @@
 | [0191-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0338-counting-bits) |
 | [0137-single-number-ii](https://github.com/marindave/150-Basic-leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,12 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
