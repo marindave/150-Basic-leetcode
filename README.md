@@ -28,8 +28,10 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
+| [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
+| [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
