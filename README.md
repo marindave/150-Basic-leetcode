@@ -17,6 +17,7 @@
 | [0461-hamming-distance](https://github.com/marindave/150-Basic-leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/marindave/150-Basic-leetcode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/marindave/150-Basic-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [1054-complement-of-base-10-integer](https://github.com/marindave/150-Basic-leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
