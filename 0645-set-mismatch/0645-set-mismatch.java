@@ -1,17 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
+        Arrays.sort(nums);
         int[] ans=new int[2];
         int n=nums.length;
         int expectedSum=(int) n*(n+1)/2;
-        int actualSum=0;
-       for(int i=0;i<nums.length;i++){
-        for(int j=i+1;j<nums.length;j++){
-            if((nums[i]^nums[j])==0){
-                ans[0]=nums[i];
+        int s=0;
+        int e=1;
+        while(e<n){
+            if((nums[s]^nums[e])==0){
+                ans[0]=nums[s];
+                break;
             }
+            s++;
+            e++;
         }
-       } 
-       for(int i=0;i<nums.length;i++){
+        int actualSum=0;
+        for(int i=0;i<nums.length;i++){
         actualSum=actualSum+nums[i];
        }
        ans[1]=expectedSum-(actualSum-ans[0]);
