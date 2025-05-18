@@ -20,6 +20,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/marindave/150-Basic-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1054-complement-of-base-10-integer](https://github.com/marindave/150-Basic-leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
