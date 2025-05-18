@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/marindave/150-Basic-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/marindave/150-Basic-leetcode/tree/master/0137-single-number-ii) |
+| [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0476-number-complement](https://github.com/marindave/150-Basic-leetcode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/marindave/150-Basic-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1054-complement-of-base-10-integer](https://github.com/marindave/150-Basic-leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +38,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 | [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
