@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/marindave/150-Basic-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/marindave/150-Basic-leetcode/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+| [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 | [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
