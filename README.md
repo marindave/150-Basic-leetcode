@@ -24,6 +24,7 @@
 | [1054-complement-of-base-10-integer](https://github.com/marindave/150-Basic-leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 | [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
