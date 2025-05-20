@@ -9,6 +9,7 @@
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 | [0932-monotonic-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0932-monotonic-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/150-Basic-leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
