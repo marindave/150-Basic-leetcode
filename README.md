@@ -10,6 +10,7 @@
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 | [0932-monotonic-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0932-monotonic-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/150-Basic-leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2785-semi-ordered-permutation](https://github.com/marindave/150-Basic-leetcode/tree/master/2785-semi-ordered-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/marindave/150-Basic-leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [2785-semi-ordered-permutation](https://github.com/marindave/150-Basic-leetcode/tree/master/2785-semi-ordered-permutation) |
 <!---LeetCode Topics End-->
