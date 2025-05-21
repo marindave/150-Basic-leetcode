@@ -25,6 +25,7 @@
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/marindave/150-Basic-leetcode/tree/master/0899-binary-gap) |
 ## Divide and Conquer
 |  |
 | ------- |
