@@ -43,6 +43,7 @@
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave/150-Basic-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [0069-sqrtx](https://github.com/marindave/150-Basic-leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/marindave/150-Basic-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
