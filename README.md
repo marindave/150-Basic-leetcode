@@ -26,6 +26,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/marindave/150-Basic-leetcode/tree/master/0899-binary-gap) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave/150-Basic-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/marindave/150-Basic-leetcode/tree/master/0204-count-primes) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave/150-Basic-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
