@@ -11,6 +11,7 @@
 | [0932-monotonic-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0932-monotonic-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/150-Basic-leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/marindave/150-Basic-leetcode/tree/master/2785-semi-ordered-permutation) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/marindave/150-Basic-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/marindave/150-Basic-leetcode/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave/150-Basic-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Enumeration
 |  |
 | ------- |
@@ -74,4 +77,8 @@
 |  |
 | ------- |
 | [2785-semi-ordered-permutation](https://github.com/marindave/150-Basic-leetcode/tree/master/2785-semi-ordered-permutation) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
