@@ -1,21 +1,19 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-    for(int i=0;i<n;i++){
-        nums1[m+i]=nums2[i];
-    }
-    sort(nums1);
-    }
-    public static void sort(int[]arr){
-        for(int i=0;i<arr.length-1;i++){
-            for(int j=i+1;j>0;j--){
-                if(arr[j]<arr[j-1]) swap(arr,j,j-1);
-                else break;
-            }
+     while(m>0 && n>0){
+        if(nums1[m-1]>=nums2[n-1]){
+            nums1[m+n-1]=nums1[m-1];
+            m=m-1;
+        }else{
+            nums1[m+n-1]=nums2[n-1];
+            n=n-1;
         }
+     }
+     if(n>0){
+       for(int i=0;i<n;i++){
+        nums1[m+i]=nums2[i];
+       }
+     }
     }
-    public static void swap(int[]arr,int a,int b){
-        int temp=arr[a];
-        arr[a]=arr[b];
-        arr[b]=temp;
-    }
+   
 }
