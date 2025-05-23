@@ -14,6 +14,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [0088-merge-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/marindave/150-Basic-leetcode/tree/master/0075-sort-colors) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +93,5 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/marindave/150-Basic-leetcode/tree/master/0075-sort-colors) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
