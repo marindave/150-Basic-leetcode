@@ -19,6 +19,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/marindave/150-Basic-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0283-move-zeroes) |
+| [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
+| [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 | [0027-remove-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
