@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0027-remove-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/marindave/150-Basic-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave/150-Basic-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0069-sqrtx](https://github.com/marindave/150-Basic-leetcode/tree/master/0069-sqrtx) |
 | [1610-xor-operation-in-an-array](https://github.com/marindave/150-Basic-leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +99,5 @@
 | [0075-sort-colors](https://github.com/marindave/150-Basic-leetcode/tree/master/0075-sort-colors) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
