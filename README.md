@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/marindave/150-Basic-leetcode/tree/master/0075-sort-colors) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0027-remove-element) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/marindave/150-Basic-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
 | ------- |
