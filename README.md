@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0283-move-zeroes) |
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/marindave/150-Basic-leetcode/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
