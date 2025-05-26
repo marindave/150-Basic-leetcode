@@ -22,6 +22,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/marindave/150-Basic-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0191-number-of-1-bits) |
+| [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [0088-merge-sorted-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/marindave/150-Basic-leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -98,6 +102,7 @@
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
