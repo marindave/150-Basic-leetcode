@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0283-move-zeroes) |
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/marindave/150-Basic-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/marindave/150-Basic-leetcode/tree/master/0645-set-mismatch) |
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
 ## Sorting
 |  |
 | ------- |
