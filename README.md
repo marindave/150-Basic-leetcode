@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/marindave/150-Basic-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,10 +48,12 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0191-number-of-1-bits) |
 | [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0338-counting-bits) |
+| [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
