@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/marindave/150-Basic-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/marindave/150-Basic-leetcode/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/150-Basic-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0338-counting-bits) |
 | [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/150-Basic-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
