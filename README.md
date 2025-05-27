@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/marindave/150-Basic-leetcode/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/marindave/150-Basic-leetcode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
