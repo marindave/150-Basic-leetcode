@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/150-Basic-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave/150-Basic-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [1651-shuffle-string](https://github.com/marindave/150-Basic-leetcode/tree/master/1651-shuffle-string) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/marindave/150-Basic-leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Bit Manipulation
 |  |
 | ------- |
