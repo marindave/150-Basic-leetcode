@@ -59,6 +59,7 @@
 | [0338-counting-bits](https://github.com/marindave/150-Basic-leetcode/tree/master/0338-counting-bits) |
 | [0053-maximum-subarray](https://github.com/marindave/150-Basic-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/150-Basic-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/marindave/150-Basic-leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -70,11 +71,13 @@
 | [0069-sqrtx](https://github.com/marindave/150-Basic-leetcode/tree/master/0069-sqrtx) |
 | [1610-xor-operation-in-an-array](https://github.com/marindave/150-Basic-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [0189-rotate-array](https://github.com/marindave/150-Basic-leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/marindave/150-Basic-leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/marindave/150-Basic-leetcode/tree/master/0231-power-of-two) |
 | [0050-powx-n](https://github.com/marindave/150-Basic-leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/marindave/150-Basic-leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/marindave/150-Basic-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/marindave/150-Basic-leetcode/tree/master/1651-shuffle-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/marindave/150-Basic-leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
